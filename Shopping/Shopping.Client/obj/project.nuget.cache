@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rHCgwZSSftAwPcW5yXs/3XoqiSlZtIdV9xeGInze7tYkTtNenMwuBPDc9bECJs0ziypWNL6DObo6gYKVRFU/cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\run-devops\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a796222\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
